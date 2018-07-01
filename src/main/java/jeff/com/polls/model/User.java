@@ -1,5 +1,6 @@
 package jeff.com.polls.model;
 
+import jeff.com.polls.model.Audit.DateAudit;
 import org.hibernate.annotations.NaturalId;
 
 import javax.management.relation.Role;
